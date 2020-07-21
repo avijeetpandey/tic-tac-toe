@@ -99,7 +99,7 @@ const App = ()=>{
                             color="success"
                             block
                             onClick={reloadGame}
-                            >Relaod Game</Button>
+                            >Reload Game</Button>
                         </div>
                     ) : (
                         <h1 className="text-center text-warning">
